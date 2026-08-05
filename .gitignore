@@ -1,0 +1,12 @@
+.keystore-credentials.local.txt
+android.keystore
+app/
+build/
+.gradle/
+node_modules/
+init-answers.txt
+app-release-signed.apk
+app-release-signed.apk.idsig
+app-release-unsigned-aligned.apk
+app-release-bundle.aab
+manifest-checksum.txt
